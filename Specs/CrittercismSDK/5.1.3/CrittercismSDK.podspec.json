@@ -18,7 +18,6 @@
     "http": "https://app.crittercism.com/images/Crittercism_v5_1_3.zip"
   },
   "source_files": "CrittercismSDK/*.h",
-  "resources": "CrittercismSDK/dsym_upload.sh",
   "preserve_paths": "CrittercismSDK/libCrittercism_v5_1_3.a",
   "libraries": "Crittercism_v5_1_3",
   "requires_arc": false,
